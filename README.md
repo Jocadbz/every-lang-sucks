@@ -76,3 +76,18 @@ int main() {
 ```cs
 Console.WriteLine("C# fucking sucks");
 ```
+
+## Clojure
+```clojure
+(println "Clojure fucking sucks")
+```
+
+## COBOL
+```cobol
+IDENTIFICATION DIVISION.
+PROGRAM-ID. COBOL-SUCKS.
+* why cobol sucks
+PROCEDURE DIVISION.
+    DISPLAY 'Cobol fucking sucks'.
+    STOP RUN.
+```
