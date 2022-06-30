@@ -91,3 +91,31 @@ PROCEDURE DIVISION.
     DISPLAY 'Cobol fucking sucks'.
     STOP RUN.
 ```
+
+## D
+```d
+import std.stdio;
+
+void main() {
+    writeln("Sorry Ikey, D fucking sucks.");
+}
+```
+
+## Dart
+```dart
+void main() {
+  print('Dart fucking sucks');
+}
+```
+
+## Elixir
+```ex
+IO.puts("Hello, World!")
+```
+
+## Ezhil
+```ezhil
+பதிப்பி "உலகே வணக்கம்"
+பதிப்பி "Haha shitposting language"
+exit()
+```
